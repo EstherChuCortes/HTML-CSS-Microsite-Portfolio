@@ -24,7 +24,7 @@ Este repositorio contiene el código fuente para un microsite de portafolio resp
 </div>
 
 <p align="center">
-   <a href="src/">
+   <a href="https://github.com/EstherChuCortes/HTML-CSS-Microsite-Portfolio">
       <img src="https://img.shields.io/badge/ver%20codigo-%23761C76?style=for-the-badge" alt="badge">
    </a>
 </p>
