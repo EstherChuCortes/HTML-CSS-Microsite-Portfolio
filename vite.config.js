@@ -1,3 +1,3 @@
 export default{
-    base: '/HTML-CSS-Microsite-Portfolio/',
+    base: '/Responsive-Microsite-Portfolio/',
 };
